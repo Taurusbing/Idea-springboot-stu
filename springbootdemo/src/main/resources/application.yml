@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ssm?characterEncoding=utf8
+    username: root
+    password: root
+    # springboot自动推断，可省略
+    driver-class-name: com.mysql.jdbc.Driver
+
+# mybatis 别名包
+mybatis:
+  type-aliases-package: com.hpe.pojo
