@@ -6,6 +6,7 @@ public class Test {
         System.out.println("本地端修改");
         System.out.println("主分支远程修改02");
         System.out.println("主分支远程修改01");
-        System.out.println("主分支远程修改003");
+        System.out.println("主分支本地修改003");
+        System.out.println("主分支本地修改004");
     }
 }
