@@ -25,5 +25,8 @@ public class Test {
 
         System.out.println("1234");
         System.out.println(new SimpleDateFormat("yyyy-MM-dd").format(new Date()));
+
+
+        System.out.println("45678");
     }
 }
